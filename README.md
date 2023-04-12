@@ -1,6 +1,6 @@
 # git_tasks
 
-I Can Win
-Bring It On
-Hurt Me Plenty
-Hardcore
+1. I Can Win
+2. Bring It On
+3. Hurt Me Plenty
+4. Hardcore
